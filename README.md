@@ -22,4 +22,4 @@ Only verified profiles. No spam. No fake accounts. Just pure developer energy.
 Welcome to DevsFarm—where real devs grow together.
 
 
-Visit our developer community 👉 [DevsFarm](https://devsfarm.netlify.app/)
+Visit our developer community 👉 [DevsFarm](https://homedevfarm.netlify.app/)
