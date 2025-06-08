@@ -23,3 +23,5 @@ Welcome to DevsFarm—where real devs grow together.
 
 
 Visit our developer community 👉 [DevsFarm](https://homedevfarm.netlify.app/)
+
+Visit our coding question community [Devsfarm code ](https://devsfarmcode.netlify.app/)
